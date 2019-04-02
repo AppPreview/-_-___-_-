@@ -1,0 +1,1 @@
+[![Board Status](https://codedev.ms/chench0232/4c5904e6-c53a-41f1-adf5-f973db37b57c/cc6058d4-c051-4d5e-b343-f275d4fd3bfc/_apis/work/boardbadge/f8d55639-cfec-4010-a2ed-52e03a337421)](https://codedev.ms/chench0232/4c5904e6-c53a-41f1-adf5-f973db37b57c/_boards/board/t/cc6058d4-c051-4d5e-b343-f275d4fd3bfc/Microsoft.RequirementCategory)
